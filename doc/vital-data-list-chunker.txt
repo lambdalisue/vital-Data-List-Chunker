@@ -6,7 +6,7 @@ License: MIT license
 
 
 =============================================================================
-CONTENTS			*Vital.Data.List.Chunker*
+CONTENTS			*Vital.Data.List.Chunker-contents*
 
 INTRODUCTION			|Vital.Data.List.Chunker-introduction|
 INTERFACE			|Vital.Data.List.Chunker-interface|
